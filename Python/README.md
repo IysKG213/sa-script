@@ -12,5 +12,5 @@
 
 ## eto_hon.py
 学習に使用している[いちばんやさしいPythonの教本 人気講師が教える基礎からサーバサイド開発まで](https://www.amazon.co.jp/dp/B075197HLN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
-に記載の「eto_multipule_data.py」tと同じ。
+に記載の「eto_multipule_data.py」と同じ。  
 記載のスクリプト名が長いので短縮したもの。
