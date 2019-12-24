@@ -18,3 +18,8 @@
 for文でリスト内の値の合計点と平均点計算するスクリプト。  
 学習に使用している「[いちばんやさしいPythonの教本 人気講師が教える基礎からサーバサイド開発まで](https://www.amazon.co.jp/dp/B075197HLN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」  
 に記載の「04_for.py」と同じ。  
+
+## dict_hon.py
+disct型を使用して生徒の点数の評価を表示するプログラムスクリプト。  
+学習に使用している「[いちばんやさしいPythonの教本 人気講師が教える基礎からサーバサイド開発まで](https://www.amazon.co.jp/dp/B075197HLN/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)」  
+に記載の「05_dict.py」と同じ。  
